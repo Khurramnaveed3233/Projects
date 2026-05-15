@@ -96,6 +96,12 @@ Each of the dashboards showcased below was built to address real-world business 
 
 # Certifications
 
+## **Critical Thinking in the AI Era**
+
+<img width="1683" height="1189" alt="Critical Thinking in the AI Era" src="https://github.com/user-attachments/assets/2cf2440b-b394-46a9-9d88-093fe3064645" />
+
+<img width="1189" height="1683" alt="Critical Thinking in the AI Era Transcript " src="https://github.com/user-attachments/assets/be9a0e4f-eed4-4015-a76f-4604460aef8d" />
+
 ## **CISCO Data Analytics Essentials**
 
 Fundamentals of the data analysis lifecycle: from collection and cleaning to visualization and interpretation
